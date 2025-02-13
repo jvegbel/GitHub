@@ -11,8 +11,9 @@ public class GitHub {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Inicio de práctica 4.3: GitHub + Netbeans");
-        System.out.println("2º CAmbio");
+        System.out.println("Inicio de prÃ¡ctica 4.3: GitHub + Netbeans");
+        System.out.println("2Âº CAmbio");
+          System.out.println("CAMBIO hecho desde Gitub");
     }
     
 }
